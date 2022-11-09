@@ -4,6 +4,7 @@
 	"description": "freeCodeCamp npm project",
 	"keywords": ["freecodecamp", "project", "npm"],
 	"license": "MIT",
+	"version": "4.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
