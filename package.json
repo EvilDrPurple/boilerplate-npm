@@ -3,6 +3,7 @@
 	"author": "Kylie",
 	"description": "freeCodeCamp npm project",
 	"keywords": ["freecodecamp", "project", "npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
